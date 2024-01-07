@@ -2,4 +2,5 @@
 Mobil Uygulama Proje Ödevi
 
 Flip Card Dil öğrenme uygulaması
-Bilgisayar mühendisliği B
+Bilgisayar mühendisliği Bölüm
+Tüm kodlar Card.zip dosyasında!!!!!!!
